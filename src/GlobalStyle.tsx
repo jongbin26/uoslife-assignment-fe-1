@@ -7,6 +7,7 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
   body {
+    background-color: #fafafa;
     font-family: Pretendard;
     font-weight: 500;
   }
